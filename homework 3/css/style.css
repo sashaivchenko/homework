@@ -1,71 +1,7 @@
-.menu_list_item {
+@import"./main.css";
 
-font-size: 20px;
-text-transform: uppercase;
+@import"./header.css";
 
-}
+@import"./main.css";
 
-.card{
-
-}
-
-.heading{
-
-font-size: 17px;
-
-}
-
-.subtitle{
-
-font-size: 20px;
-
-}
-
-.btn{
- font-size: 20px;
-text-transform: uppercase;
-font: weight 600;
-color: black;
-margin: auto;
-max-width: 900px;
-}
-
-.menu_list{
-font-size: 20px;
-text-transform: uppercase;
-font: weight 600;
-color: darkgrey;
-margin: auto;
-max-width: 900px;
-}
-
-.card{
-   
-}
-
-.text{
-display: inline-block;
-width: 300px;
-height:auto;
-
-}
-
-.btn{
-    display: menu;
-    justify-content: space-around;
-    list-style-type: none;
-    width: 140px;
-    margin-bottom: 100px;
-    margin-left: 600px;
-    margin-right: 100px;
-}
-
-.flex{
-    display: flex;
-    justify-content: space-around;
-    list-style-type: none;
-    width: 700px;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-}
+@import"./footer.css";

@@ -1,0 +1,17 @@
+.menu_list_item{
+    font-size: 16px;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+.menu_list_item:hover{
+    color: blue;
+}
+
+.text{
+    display: inline-block;
+    width: 300px;
+    height:auto;
+}
+
